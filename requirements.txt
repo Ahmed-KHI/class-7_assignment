@@ -1,0 +1,4 @@
+agents
+python-dotenv
+pydantic
+colorama
